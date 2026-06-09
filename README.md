@@ -70,8 +70,4 @@
   <img height="250" src="https://user-images.githubusercontent.com/2543511/81287318-dc926d80-9062-11ea-9f5a-0585ee67fe86.gif"  />
 </div>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/8ej70i47i8majz8qhak85vozm" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="420"/></a>
-</p>
-
 <h3 align="center">―――――――――――――――――――――――――――――――――――――――――――――</h3>
