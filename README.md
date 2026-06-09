@@ -1,13 +1,11 @@
-<h2 align="center">HI! MY NAME IS GALANG KNOWN AS LANGZ | IM FROM INDONESIA</h2>
+<h2 align="center">HI! MY NAME IS GALANG KNOWN AS LANGZ OR RUI | IM FROM INDONESIA</h2>
 
 <h5 align="center">Enthusiastic self-taught Developer exploring the wonders of JavaScript, PHP, and ReactJS, driven by a relentless desire to master the craft and create impactful projects.</h5>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=langzdesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="116" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=langzdesu&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="116" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=langzdesu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&order=2" height="116" alt="languages graph"  />
 </div>
 
 ###
